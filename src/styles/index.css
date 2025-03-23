@@ -1,0 +1,28 @@
+:root {
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-nm: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+
+	--text-primary: oklch(0.145 0 0);
+	--text-secondary: oklch(0.205 0 0);
+	--text-tertiary: oklch(0.269 0 0);
+  --background-primary: oklch(0.985 0 0);
+  --background-secondary: oklch(0.967 0.001 286.375);
+  --background-tertiary: oklch(0.92 0.004 286.32);
+	--accent-primary: oklch(0.541 0.281 293.009);
+	--accent-secondary: oklch(0.38 0.189 293.745);
+}
+
+:root.dark {
+  --text-primary: oklch(0.985 0 0);
+  --text-secondary: oklch(0.97 0 0);
+  --text-tertiary: oklch(0.922 0 0);
+  --background-primary: oklch(0.274 0.006 286.033);
+  --background-secondary: oklch(0.21 0.006 285.885);
+  --background-tertiary: oklch(0.141 0.005 285.823);
+  --accent-primary: oklch(0.38 0.189 293.745);
+  --accent-secondary: oklch(0.541 0.281 293.009);
+}
+

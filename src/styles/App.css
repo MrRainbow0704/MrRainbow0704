@@ -1,0 +1,57 @@
+#root {
+	min-height: 100vh;
+	display: grid;
+	grid-template-rows: auto auto 1fr auto;
+	background-color: var(--background-primary);
+	color: var(--text-primary);
+}
+
+a {
+	color: var(--accent-primary);
+}
+
+a:hover {
+	color: var(--accent-secondary);
+}
+
+body {
+	font-family: "Roboto", sans-serif;
+	min-height: 100vh;
+}
+
+header {
+	padding: 0;
+	margin: 0;
+	font-size: var(--text-lg);
+	background-color: var(--background-secondary);
+	text-align: center;
+}
+
+nav {
+	background-color: var(--background-secondary);
+	position: relative;
+	padding-bottom: 0.5rem;
+	> button {
+		position: absolute;
+		color: var(--text-primary);
+		background-color: transparent;
+		border: none;
+		top: 0;
+		right: 0;
+	}
+	> ul {
+		list-style-type: none;
+		text-align: center;
+		padding: 0;
+		> li {
+			display: inline;
+			padding: 0 1rem;
+		}
+	}
+}
+
+footer {
+	font-size: var(--text-xs);
+	min-height: 1.5rem;
+	text-align: center;
+}
