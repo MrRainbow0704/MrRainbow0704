@@ -1,18 +1,18 @@
-# 💫 About Me:
+# 💫 About Me
 - 🔭 I’m currently working on **lots of small projects**
-- 🌱 I’m currently learning **Golang and React**
+- 🌱 I’m currently learning **Golang and Svelte**
 - 📫 How to reach me **2007.marcosimone@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun facts: **I'm a karate black belt and I play the piano**
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marco.simone__)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MrRainbow07)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@marcosimone0704)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/MrRainbow0704)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/marcosimone0704) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)](https://go.dev/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://wikipedia.org/wiki/CSS)
