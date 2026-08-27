@@ -1,7 +1,6 @@
 # 💫 About Me
 - 🔭 I’m currently working on **lots of small projects**
 - 🌱 I’m currently learning **Golang and Svelte**
-- 📫 How to reach me **2007.marcosimone@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun facts: **I'm a karate black belt and I play the piano**
 
